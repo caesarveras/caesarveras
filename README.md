@@ -3,10 +3,11 @@
 
 <img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/176931923?v=4" />
 <div align="center">
-<p align="right">Sou o <b>Caesar</b>, <br>👨‍💻 QA Engineer | 🎓 Pesquisador em Linguística Aplicada e Tecnologia<br>
+<p align="right">Sou o <b>Caesar</b>, 
+  <br>👨‍💻 QA Engineer | 🎓 Pesquisador em Linguística Aplicada e Tecnologia<br>
 💬 Explorando interseções entre algoritmos, linguagem, gênero e raça<br>
 🛠️ Automação de testes com Playwright, Cypress, Selenium e CI/CD (GitLab, Azure)<br>
-📚 Mestrando em Linguística Aplicada | Apaixonado por dados, ética e inclusão<br>
+📚 Mestrando em Linguística Aplicada | Apaixonado por tecnologia e ciências sociais<br>
 
 
 
@@ -14,7 +15,6 @@
 ---
 
 <br clear="both">
-  <br>STACKS:
 <div align="center">
   <a href= "https://azure.microsoft.com/pt-br/products/devops">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  /><img width="12" /></a>
