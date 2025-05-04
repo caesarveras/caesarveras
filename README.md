@@ -17,7 +17,7 @@
     <a href="https://www.atlassian.com/br/software/jira">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  /><img width="12" /></a>
     <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /><img width="12" /></a>
-  <a href="https://www.adobe.com/br/products/photoshop.html#modal-hash"><img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="photoshop logo"  /><img width="12" /></a> 
+  <a href="https://www.adobe.com/br/products/photoshop.html#modal-hash"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968520.png" height="40" alt="photoshop logo"  /><img width="12" /></a> 
     <a href="https://www.gimp.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  /><img width="12" /></a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
