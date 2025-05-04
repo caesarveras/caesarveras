@@ -1,7 +1,7 @@
 <h2 align="left">Bem vindes!</h2>
 <br>
 
-<img align="left" width="150" height="150" src="https://i.ibb.co/jzJghDh/imagem-2024-08-28-143314183.png" />
+<img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/176931923?v=4" />
 <div align="center">
 <p align="right">Sou o <b>Caesar</b>, <br>👨‍💻 QA Engineer | 🎓 Pesquisador em Linguística Aplicada e Tecnologia<br>
 💬 Explorando interseções entre algoritmos, linguagem, gênero e raça<br>
