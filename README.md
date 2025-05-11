@@ -6,7 +6,7 @@
 <p align="right">Sou o <b>Caesar</b>, 
   <br>👨‍💻 QA Engineer | 🎓 Pesquisador em Linguística Aplicada e Tecnologia<br>
 💬 Explorando interseções entre algoritmos, linguagem, gênero e raça<br>
-🛠️ Automação de testes com Playwright, Cypress, Selenium e CI/CD (GitLab, Azure)<br>
+🛠️ Automação de testes com Playwright, Cypress, Selenium e CI/CD (Github, GitLab, Azure)<br>
 📚 Mestrando em Linguística Aplicada | Apaixonado por tecnologia e ciências sociais<br>
 
 
